@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/397504015.svg)](https://zenodo.org/badge/latestdoi/397504015)
+[![DOI](https://zenodo.org/badge/400265651.svg)](https://zenodo.org/badge/latestdoi/400265651)
 # Trace-based Simulations of MANETs
 To perform network simulations for aircraft aeronautical adhoc networks we use the following components:
 - Aircraft mobility model: here we use the [BonnMotionMobility](https://doc.omnetpp.org/inet/api-current/neddoc/inet.mobility.single.BonnMotionMobility.html) model that uses aircraft traces to configure aircraft movements.
